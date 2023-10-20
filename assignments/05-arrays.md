@@ -4,7 +4,7 @@
 
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
-2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)     Done
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    Done
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)     Done
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)       Done
@@ -15,10 +15,10 @@
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)    HalfnHalf
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)     Done
 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
-15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
-16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)    Done
+16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  Done
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
